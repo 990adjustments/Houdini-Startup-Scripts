@@ -1,0 +1,8 @@
+.DS_Store
+*.psd
+*.pyc
+*_bak*.hip
+*.swp
+*.afdesign
+*.ai
+/backup
